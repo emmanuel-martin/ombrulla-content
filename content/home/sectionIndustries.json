@@ -1,0 +1,27 @@
+{
+	"miniHeading": "Industries",
+	"title": "Our solution in Industries",
+	"description": "Ombrulla leverages AI and IoT across various industries, providing powerful insights and data driven decisions that enhance efficiency and improve bottom line.",
+	"children": [
+		{
+			"label": "Automobile",
+			"description": "Ombrulla's AI Visual Inspection in automobile enhances quality control, reduces errors and significantly improves operational efficiency.",
+			"icon": "AutomobileIcon"
+		},
+		{
+			"label": "Oil and Gas",
+			"description": "AI & IoT Real-time Location Systems (RTLS) improves worker safety, ensure compliance, and minimize hazardous solutions.",
+			"icon": "OilIcon"
+		},
+		{
+			"label": "Manufacturing",
+			"description": "AI Visual Inspection in manufacturing enhances quality control, reducing errors and optimizing production process.",
+			"icon": "ManufacturingIcon"
+		},
+		{
+			"label": "Infrastructure",
+			"description": "AI Visual Inspection in infrastructure enhances efficiency and accuracy, ensuring timely detection and maintenance needs.",
+			"icon": "InfrastructureIcon"
+		}
+	]
+}

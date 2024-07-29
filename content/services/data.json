@@ -1,0 +1,290 @@
+[
+	{
+		"slug": "ai-visual-inspection",
+		"miniHeading": "AI Visual Inspection",
+		"title": "Achieving manufacturing excellence",
+		"image": "/assets/images/banner-05.jpg",
+		"description": {
+			"overview": "High-Speed, High-Precision Automated Manual Visual Inspection",
+			"details": [
+				{
+					"heading": "Accuracy",
+					"text": "AI visual inspection systems provide higher accuracy in defect detection compared to human inspectors."
+				},
+				{
+					"heading": "Speed",
+					"text": "These systems can process and analyze products much faster, reducing inspection times."
+				},
+				{
+					"heading": "Consistency",
+					"text": "AI systems offer consistent performance without fatigue, ensuring reliable inspection outcomes."
+				}
+			]
+		},
+		"call_to_action": ["Schedule Call", "Watch Video"],
+		"sections": [
+			{
+				"navigator": "Overview",
+				"title": "Manual inspection in manufacturing is inefficient, unreliable, and expensive",
+				"type": "description",
+				"overview": "Harnessing cameras, AI, and machine learning, our AI visual inspection analyses  products swiftly, consistently, and with unparalleled precision.",
+				"call_to_action": ["CTA"],
+				"details": [
+					{
+						"heading": "Faster Monitoring:",
+						"text": "AI people tracking systems operate at high speeds, significantly reducing monitoring time compared to manual processes."
+					},
+					{
+						"heading": "Faster Inspections:",
+						"text": " AI  quality  control systems operate at high speeds, significantly reducing inspection time compared to manual processes."
+					},
+					{
+						"heading": "Lower labor expenses and less rework:",
+						"text": "AI defect detection reduces inspection team sizes and minimizes rework and scrap costs resulting in significant cost savings."
+					}
+				]
+			},
+			{
+				"navigator": "Benefits",
+				"title": "Customer Benefits",
+				"overview": " It involves training Artificial Intelligence models on a dataset of images showing both defective and defect-free products. The system then uses this knowledge to identify and classify defects in real-time, enhancing the accuracy of manufacturing inspection.",
+				"type": "boxes",
+				"call_to_action": ["CTA"],
+				"content": [
+					{
+						"icon": "",
+						"heading": "Accurate & Consistent",
+						"text": "AI can be trained to detect defects with a high degree of precision, even for subtle flaws that human inspectors might miss."
+					},
+					{
+						"icon": "",
+						"heading": "Efficient & Productive",
+						"text": " AI systems can analyse images much faster than humans, enabling real-time inspection on high-speed production lines."
+					},
+					{
+						"icon": "",
+						"heading": "Improved Quality and Compliance",
+						"text": "AI visual inspection ensures compliance with industry standards and regulations by maintaining consistent quality control, avoiding legal issues."
+					},
+					{
+						"icon": "",
+						"heading": "Data-driven decision-making",
+						"text": "These systems generate data analytics that offer insights into production, defect patterns, and improvements, enabling informed decisions."
+					}
+				]
+			},
+			{
+				"navigator": "Capabilities",
+				"title": "Our Capabilities",
+				"type": "tabs",
+				"content": [
+					{
+						"tab": "Vision",
+						"image": "/assets/images/banner-01.jpg",
+						"heading": "Pre-processing and Model Training Module",
+						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+						"call_to_action": [
+							{
+								"id": "CTA"
+							}
+						]
+					},
+					{
+						"tab": "Watch",
+						"image": "/assets/images/banner-02.jpg",
+						"heading": "Decision-Making Module",
+						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+						"call_to_action": [
+							{
+								"id": "CTA"
+							}
+						]
+					},
+					{
+						"tab": "SKY",
+						"image": "/assets/images/banner-06.jpg",
+						"heading": "Data management and Analysis Module",
+						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+						"call_to_action": [
+							{
+								"id": "CTA"
+							}
+						]
+					}
+				]
+			},
+			{
+				"navigator": "Use Cases",
+				"title": "Use Cases",
+				"overview": "",
+				"type": "multiple",
+				"content": [
+					{
+						"heading": "AI Visual Inspection in the Textile Industry",
+						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+						"details": [
+							{
+								"heading": "Imperfections:",
+								"text": "Defects like snags, holes, uneven dyeing, and wrinkles in fabrics that might escape human inspection can be detected."
+							},
+							{
+								"heading": "Colour Discrepancies:",
+								"text": "Shade variations and minor stains in fabrics can be detected to ensure consistent color and identify discolorations that might escape human notice."
+							},
+							{
+								"heading": "Weave Irregularities:",
+								"text": "Missing threads and incorrect weave patterns are detected to ensure fabric strength and design accuracy."
+							},
+							{
+								"heading": "Other irregularities:",
+								"text": "Contaminants like dust or debris and frayed or uneven edges are identified to ensure fabric usability."
+							}
+						]
+					},
+					{
+						"heading": "AI Visual Inspection in Plastic Manufacturing",
+						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+						"details": [
+							{
+								"heading": "Cracks and fractures:",
+								"text": "Hairline cracks, fractures, bubbles, and voids in plastic parts are identified by AI to ensure structural integrity and appearance."
+							},
+							{
+								"heading": "Missing features:",
+								"text": "The system can identify any missing features on the plastic part, such as holes, cutouts, or molded details."
+							},
+							{
+								"heading": "Surface defects:",
+								"text": "Similar to fabric detection, our systems can identify scratches, scuffs, or other surface imperfections on areas containing plastics."
+							},
+							{
+								"heading": "Incorrect colour or finish:",
+								"text": "Our system can compare plastic parts to a reference model and ensure they have the correct colour and surface finish."
+							}
+						]
+					}
+				]
+			},
+			{
+				"navigator": "FAQs",
+				"title": "FAQs",
+				"type": "faq",
+				"content": [
+					{
+						"question": "What is AI visual inspection?",
+						"answer": {
+							"overview": "AI visual inspection uses artificial intelligence and machine learning algorithms to automatically detect defects, anomalies, and quality issues in products by analysing images or video footage, ensuring high-quality visual inspection with AI precision.",
+							"details": []
+						}
+					},
+					{
+						"question": "How does AI visual inspection work?",
+						"answer": {
+							"overview": " It involves training Artificial Intelligence models on a dataset of images showing both defective and defect-free products. The system then uses this knowledge to identify and classify defects in real-time, enhancing the accuracy of manufacturing inspection.",
+							"details": []
+						}
+					},
+					{
+						"question": "What types of defects can AI visual inspection detect?",
+						"answer": {
+							"overview": "AI systems can be trained to detect a wide variety of defects, depending on the specific application. Here are some examples:",
+							"details": [
+								{
+									"heading": "",
+									"text": "Surface defects (scratches, cracks, uneven surfaces)"
+								},
+								{
+									"heading": "",
+									"text": "Weld seam flaws (porosity, cracks)"
+								},
+								{
+									"heading": "",
+									"text": "Foreign objects"
+								},
+								{
+									"heading": "",
+									"text": "Heat treatment inconsistencies"
+								},
+								{
+									"heading": "",
+									"text": "Colour discrepancies"
+								},
+								{
+									"heading": "",
+									"text": "Misalignments"
+								},
+								{
+									"heading": "",
+									"text": "Missing components"
+								}
+							]
+						}
+					}
+				]
+			},
+			{
+				"navigator": "Next Step",
+				"title": "Take the next step",
+				"overview": "Explore how our AI Visual Inspection Solution can cater your unique inspection needs.",
+				"type": "ad"
+			}
+		]
+	},
+	{
+		"title": "AI Infrastructure Inspection",
+		"slug": "ai-infrastructure-inspection",
+		"image": "/assets/images/banner-01.jpg",
+		"description": {
+			"overview": "Ombrulla transforms manufacturing quality control with its AI-driven defect detection system, eliminating human errors & delays while boosting precision for streamlined processes.",
+			"details": [
+				{
+					"heading": "Accuracy",
+					"text": "AI visual inspection systems provide higher accuracy in defect detection compared to human inspectors."
+				},
+				{
+					"heading": "Speed",
+					"text": "These systems can process and analyze products much faster, reducing inspection times."
+				},
+				{
+					"heading": "Consistency",
+					"text": "AI systems offer consistent performance without fatigue, ensuring reliable inspection outcomes."
+				}
+			]
+		},
+		"call_to_action": ["Schedule Call", "Watch Video"],
+		"sections": [
+			{
+				"title": "Introduction",
+				"content": "In the contemporary industrial landscape, quality assurance is pivotal to maintaining competitive advantage, customer satisfaction, and regulatory compliance. Traditional inspection methods, often reliant on human observation, are becoming insufficient due to their susceptibility to errors and inefficiency in handling large volumes of products. The advent of Artificial Intelligence (AI) has introduced transformative solutions, among which AI-based visual inspection stands out as a revolutionary approach. This essay explores the concept, benefits, and applications of AI-driven visual inspection in enhancing quality control across various industries.",
+				"navigator": "Introduction"
+			},
+			{
+				"title": "The Concept of AI-Based Visual Inspection",
+				"content": "AI-based visual inspection utilizes advanced algorithms, machine learning, and computer vision technologies to examine and analyze products for defects or inconsistencies. Unlike conventional methods that depend on the human eye, AI systems leverage high-resolution cameras and sophisticated software to detect anomalies with exceptional precision and speed. These systems can be trained using vast datasets to recognize patterns, classify defects, and continuously improve their accuracy over time.",
+				"navigator": "Concept"
+			}
+		],
+		"faq": [
+			{
+				"question": "How does AI visual inspection replace human inspection with the power of Artificial Intelligence?",
+				"answer": {
+					"overview": "AI Visual Inspection, also known as automated visual inspection or machine vision inspection, is a technology that utilizes artificial intelligence (AI) and computer vision algorithms to inspect and analyze objects or products in various industries.",
+					"details": [
+						{
+							"heading": "Increased Accuracy",
+							"text": "AI visual inspection systems can detect defects with a higher degree of accuracy compared to human inspectors."
+						},
+						{
+							"heading": "Speed and Efficiency",
+							"text": "These systems can analyze products much faster, reducing overall inspection time and increasing throughput."
+						},
+						{
+							"heading": "Consistency",
+							"text": "AI systems provide consistent inspection results without fatigue, ensuring high reliability."
+						}
+					]
+				}
+			}
+		]
+	}
+]

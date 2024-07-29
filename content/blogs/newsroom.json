@@ -1,0 +1,98 @@
+{
+	"miniHeading": "newsroom",
+	"title": "Latest News",
+	"children": [
+		{
+			"miniHeading": "AI Visual Inspection",
+			"title": "How to include AI Visual Inspection into your quality control process",
+			"slug": "how-to-include-ai-Visual-Inspection-into-your-quality-control-process",
+			"description": "AI visual inspection offers numerous benefits for quality control processes, including enhanced speed, accuracy, consistency, and scalability.",
+			"category": "business",
+			"metadata": {
+				"author": "Emmanuel Martin",
+				"date": "Jul 27, 2024",
+				"read": "11 mins read"
+			},
+			"tags": ["business", "artificial intelligence", "IoT", "Technology"],
+			"banner": {
+				"image": "/assets/images/banner-05.jpg",
+				"alt": "AI-based visual inspection revolutionizes traditional quality control methods."
+			},
+			"parts": [
+				{
+					"type": "paragraph",
+					"content": "In today’s manufacturing landscape, AI-based visual inspection revolutionizes traditional quality control methods, boosting efficiency and accuracy significantly. Computer Vision algorithms swiftly detect defects, minimizing errors, and optimizing resource utilization. Moreover, this integration preemptively addresses issues, ensuring continual improvement in product quality over time."
+				},
+				{
+					"type": "paragraph",
+					"content": "Artificial Intelligence’s speed and precision replace manual inspection’s inefficiencies, fundamentally transforming quality control processes. With real-time analysis, manufacturers can swiftly identify anomalies, reducing disruptions to production seamlessly. Additionally, iterative learning empowers organizations to refine inspection protocols, sustaining excellence in product quality effectively."
+				},
+				{
+					"type": "paragraph",
+					"content": "Embracing Artificial Intelligence based quality inspection isn’t merely an evolution but a revolution in manufacturing excellence. Its seamless integration streamlines operations, mitigating risks, and enhancing competitiveness in today’s dynamic market landscape. This technological advancement represents a significant step forward in maintaining product quality standards comprehensively."
+				},
+				{
+					"type": "heading-link",
+					"level": 3,
+					"content": "Understanding",
+					"link": {
+						"path": "/services/ai-visual-inspection",
+						"value": "AI Visual Inspection"
+					}
+				},
+				{
+					"type": "paragraph",
+					"content": "AI visual inspection utilizes computer vision, machine learning, and deep learning algorithms to analyze visual data. These technologies enable machine vision systems to make decisions based on what they “see.” Computer vision allows machines to interpret and understand images or videos, while machine learning algorithms enable them to learn from data and improve performance over time. Deep learning algorithms, a subset of machine learning, further enhance the Artificial Intelligence’s ability to extract meaningful insights from visual data."
+				},
+				{
+					"type": "ad",
+					"content": "Enhance your quality control using Artificial Intelligence",
+					"call_to_action": "Contact for free consultation"
+				},
+				{
+					"type": "paragraph",
+					"content": "Ultimately, the adoption of AI inspection represents a significant step towards modernizing quality control practices. As manufacturing processes continue to evolve, embracing innovative solutions becomes imperative for sustaining competitiveness."
+				},
+				{
+					"type": "image",
+					"src": "/assets/images/banner-04.jpg",
+					"alt": "AI-based visual inspection revolutionizes traditional quality control methods."
+				}
+			]
+		},
+		{
+			"miniHeading": "AI Visual Inspection",
+			"title": "How can AI Visual Inspection be used for Defect Detection",
+			"slug": "how-can-ai-visual-inspection-be-used-for-defect-detection",
+			"description": "AI technologies play a pivotal role in revolutionizing defect inspection processes across various industries. ",
+			"category": "Artificial Intelligence",
+			"tags": ["business", "artificial intelligence", "IoT", "Technology"],
+			"banner": {
+				"image": "/assets/images/banner-07.png",
+				"alt": "AI-based visual inspection revolutionizes traditional quality control methods."
+			},
+			"metadata": {
+				"author": "Emmanuel Martin",
+				"date": "Jul 27, 2024",
+				"read": "11 mins read"
+			}
+		},
+		{
+			"miniHeading": "AI Visual Inspection",
+			"title": "Replacing Manual Inspection with Smarter AI Visual Inspection",
+			"slug": "replacing-manual-inspection-with-smarter-ai-visual-inspection",
+			"description": "At the heart of AI-powered visual inspection lie cutting-edge technologies, prominently among them being computer vision and deep learning.",
+			"category": "computer vision",
+			"metadata": {
+				"author": "Emmanuel Martin",
+				"date": "Jul 27, 2024",
+				"read": "11 mins read"
+			},
+			"banner": {
+				"image": "/assets/images/banner-06.jpg",
+				"alt": "AI-based visual inspection revolutionizes traditional quality control methods."
+			},
+			"tags": ["business", "artificial intelligence", "IoT", "Technology"]
+		}
+	]
+}

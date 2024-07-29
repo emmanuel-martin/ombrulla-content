@@ -1,0 +1,36 @@
+{
+	"title": "Asset Performance Management Software",
+	"description": "Maximum benefits with AI and IOT-enabled APM software using real-time analytics and predictive maintenance to enhance performance and efficiency.",
+	"slides": [
+		{
+			"title": "Predictive Maintenance",
+			"description": "Our Asset Performance Management Software uses real-time sensor data and machine learning to predict equipment failures, reducing downtime and costs.",
+			"image": "/assets/images/products/product-01.mp4",
+			"type": "video"
+		},
+		{
+			"title": "Operational Excellence",
+			"description": "AI and IoT APM software provides customisable dashboards and analytics, data-driven decisions, reduced downtime, and enhanced safety.",
+			"image": "/assets/images/products/product-02.mp4",
+			"type": "video"
+		},
+		{
+			"title": "Device Agnostic",
+			"description": "Our asset performance management platform, supports multiple communication protocols and diverse devices.",
+			"image": "/assets/images/products/product-03.mp4",
+			"type": "video"
+		}
+	],
+	"subProducts": [
+		{
+			"title": "Workplace Safety Software",
+			"description": "Enhance workplace safety with our AI & RTLS enabled solution for real-time monitoring., predictive safety measures, and proactive incident prevention.",
+			"image": "/assets/images/banner-04.jpg"
+		},
+		{
+			"title": "Environmental Sustainability",
+			"description": "Petran can transform industries into sustainability heroes by reducing resource use, minimizing waste, embracing circularity and ensuring transparency.",
+			"image": "/assets/images/banner-02.jpg"
+		}
+	]
+}

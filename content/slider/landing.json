@@ -1,0 +1,26 @@
+[
+    {
+        "title1": "Manual Inspection is",
+        "title2": "Slow & Error-prone",
+        "description": "Our AI-powered visual inspection enhances manufacturing inspections with precise, cost-effective solutions ensuring high product quality.",
+        "src": "/assets/videos/banner-01.mp4",
+        "alt": "Banner 1",
+        "type": "video"
+    },
+    {
+        "title1": "Infrastructure Inspection is",
+        "title2": "Slow and Risky",
+        "description": "AI infrastructure inspection provides swift and secure monitoring, overcoming the limitations of slow and hazardous traditional approaches, especially in remote or risky environments.",
+        "src": "/assets/videos/banner-02.mp4",
+        "alt": "Banner 2",
+        "type": "video"
+    },
+    {
+        "title1": "Assets Experiencing",
+        "title2": "increased downtime and maintenance cost",
+        "description": "AI and IoT-enabled asset performance management software optimizes operations, reduces downtime, and minimizes maintenance costs.",
+        "src": "/assets/images/banner-03.jpg",
+        "alt": "Banner 3",
+        "type": "image"
+    }
+]

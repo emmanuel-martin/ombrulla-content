@@ -1,0 +1,61 @@
+{
+	"title": "Ombrulla",
+	"logo": "/assets/logo/Logo-white.png",
+	"description": "Ombrulla is an AI-driven company providing specialized services like AI Visual Inspection, AI People Tracking, AI Defect Detection, AI Infrastructure Inspection, and AI Data Analytics. Our tailored solutions empower businesses with data-driven decisions, automation, and improved bottom lines. PETRAN, our cutting-edge tracking solution, utilizes AI and IoT to monitor assets, machinery, equipment, people, and facilities, enabling comprehensive performance management and environmental sustainability.",
+	"services": [
+		{
+			"name": "AI Infrastructure Inspection",
+			"link": "/services/ai-infrastructure-inspection"
+		},
+		{
+			"name": "AI Visual Inspection",
+			"link": "/services/ai-visual-inspection"
+		},
+		{
+			"name": "AI Data Analytics",
+			"link": "/services/ai-data-analytics"
+		},
+		{
+			"name": "AI People Tracking",
+			"link": "/services/ai-people-tracking"
+		}
+	],
+	"solutions": [
+		{
+			"name": "Asset Performance Management",
+			"link": "/products/asset-performance-management"
+		},
+		{
+			"name": "Workplace Safety Software",
+			"link": "/products/workplace-safety-software"
+		},
+		{
+			"name": "Environmental Sustainability",
+			"link": "/products/environmental-sustainability"
+		}
+	],
+	"locations": [
+		{
+			"country": "United Kingdom",
+			"street": "7 Bell Yard London, WC2A 2JR",
+			"contact": "+44 7879 993892"
+		},
+		{
+			"country": "Germany",
+			"street": "Schützenstraße 51A, Lübeck, 23558",
+			"contact": "+49 179 512 5812"
+		},
+		{
+			"country": "India",
+			"street": "Third Floor TI, HSR Layout, Bangalore, Karnataka, 560102",
+			"contact": "+91 85900 56435"
+		}
+	],
+	"socials": [
+		{
+			"name": "Facebook",
+			"icon": "",
+			"link": ""
+		}
+	]
+}

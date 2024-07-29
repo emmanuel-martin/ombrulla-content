@@ -1,0 +1,27 @@
+[
+	{
+		"name": "facebook",
+		"icon": "FacebookIcon",
+		"link": "#"
+	},
+	{
+		"name": "instagram",
+		"icon": "InstagramIcon",
+		"link": "https://www.instagram.com/ombrulla/"
+	},
+	{
+		"name": "twitter",
+		"icon": "TwitterIcon",
+		"link": "https://x.com/ombrulla"
+	},
+	{
+		"name": "linkedin",
+		"icon": "LinkedinIcon",
+		"link": "https://www.linkedin.com/company/ombrulla/"
+	},
+	{
+		"name": "youtube",
+		"icon": "YoutubeIcon",
+		"link": "https://www.youtube.com/channel/UCXAhwrvB4Yyw3mg7h4pzUUw"
+	}
+]

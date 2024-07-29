@@ -1,0 +1,31 @@
+{
+	"miniHeading": "Customers",
+	"title": "Our strategic partnerships",
+	"description": "Together with our esteemed clients, we're shaping the future, one bold step at a time.",
+	"clients": [
+		{
+			"image": "/assets/images/clients/azelit.png",
+			"alt": "azelit"
+		},
+		{
+			"image": "/assets/images/clients/burger-king.png",
+			"alt": "burger-king"
+		},
+		{
+			"image": "/assets/images/clients/damac.png",
+			"alt": "damac"
+		},
+		{
+			"image": "/assets/images/clients/dubai-festival-city.png",
+			"alt": "dubai-festival-city"
+		},
+		{
+			"image": "/assets/images/clients/emirates.png",
+			"alt": "emirates"
+		},
+		{
+			"image": "/assets/images/clients/wild-leaf.png",
+			"alt": "wild-leaf"
+		}
+	]
+}

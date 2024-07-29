@@ -1,0 +1,46 @@
+{
+	"miniHeading": "Services",
+	"title": "AI Visual Inspection",
+	"description": "Ombrulla revolutionizes manual visual inspection with AI Visual Inspection enabling faster, more accurate defect detection, reducing human error, and enhancing efficiency and cost-effectiveness.",
+	"services": [
+		{
+			"miniHeading": "AI QUALITY INSPECTION",
+			"title": "Enhancing quality through AI-based visual inspection",
+			"description": "Ombrulla transforms manufacturing  quality control with  its AI-driven defect detection system, eliminating human errors & delays while boosting precision for streamlined processes.",
+			"image": "/assets/images/banner-01.jpg",
+			"layout": "image-left",
+			"children": [
+				{
+					"label": "Ensures consistent performance with unmatched accuracy."
+				},
+				{
+					"label": "Improving product quality and reducing defects."
+				},
+				{
+					"label": "Lower production cost & improve the bottom line."
+				},
+				{
+					"label": "AI Inspection reduces time and boosts efficiency."
+				}
+			]
+		},
+		{
+			"miniHeading": "AI INFRASTRUCTURE INSPECTION",
+			"title": "Enhances Efficiency, Safety, and Cost-Effectiveness",
+			"description": "Ombrulla’s AI Infrastructure Inspection revolutionizes critical inspections with drone technology, enhancing efficiency, safety, and cost-effectiveness while reducing risks.",
+			"image": "/assets/images/banner-01.jpg",
+			"layout": "image-right",
+			"children": [
+				{
+					"label": "Enhancing safety by reducing worker exposure to hazardous environments."
+				},
+				{
+					"label": "AI drone technology automates inspections, saving time and resources."
+				},
+				{
+					"label": "AI infrastructure solutions ensure accurate defect detection, minimizing oversight."
+				}
+			]
+		}
+	]
+}

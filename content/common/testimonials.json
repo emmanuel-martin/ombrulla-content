@@ -1,0 +1,36 @@
+{
+	"miniHeading": "Testimonials",
+	"title": "Listen to Our Clients",
+	"children": [
+		{
+			"content": "Ombrulla's AI and IoT asset management software has transformed how we monitor our assets and field workers. Its accuracy and real-time insights make operations smoother and improve our security measures!",
+			"author": "Quresh Goga",
+			"organization": "Shipcom Wireless, UAE"
+		},
+		{
+			"content": "Ombrulla and Green Palm collaborate on an AI visual inspection for ship assessments, leveraging computer vision to detect damages and anomalies. The AI infrastructure inspection has surpassed expectations, delivering exceptional outcomes and benefits that have left us thoroughly satisfied with the partnership.",
+			"author": "Manoj Menon",
+			"organization": "Green Palm, UAE"
+		},
+		{
+			"content": "Ombrulla's AI visual inspection for Employee and Visitor Tracking System has significantly enhanced our workplace operations, seamlessly integrating security and productivity. This implementation has made our organization more efficient and effective.",
+			"author": "James Joseph",
+			"organization": "Managing Director, Terranz Dubai, UAE"
+		},
+		{
+			"content": "Ombrulla quickly turns our data into valuable insights using AI, and we highly recommend them. We're excited to work with them on more AI projects in the future.",
+			"author": "Joseph",
+			"organization": "Planet Fitness, UAE"
+		},
+		{
+			"content": "Ombrulla has surpassed our expectations with their dedicated and reliable AI data analytics services. Their team of programmers has consistently provided excellent support. I highly recommend Ombrulla to anyone seeking restaurant data analytics solutions.",
+			"author": "Tony Michael",
+			"organization": "CEO, The Cotillion Hotels, New York, USA"
+		},
+		{
+			"content": "We would like to express our gratitude for the collaboration on the development of our Business Intelligence & Analytics solutions. Ombrulla and its analytics team performed admirably and we are pleased with the solution provided to us.",
+			"author": "David Thomas",
+			"organization": "Managing Director Best Western, Kansas, USA"
+		}
+	]
+}

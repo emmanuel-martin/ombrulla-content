@@ -1,0 +1,20 @@
+[
+	{
+		"country": "United Kingdom",
+		"flag": "assets/images/flags/uk.png",
+		"street": "7 Bell Yard London, WC2A 2JR",
+		"contact": "+44 7879 993892"
+	},
+	{
+		"country": "Germany",
+		"flag": "assets/images/flags/germany.png",
+		"street": "Schützenstraße 51A, Lübeck, 23558",
+		"contact": "+49 179 512 5812"
+	},
+	{
+		"country": "India",
+		"flag": "assets/images/flags/india.png",
+		"street": "Third Floor TI, HSR Layout, Bangalore, Karnataka, 560102",
+		"contact": "+91 85900 56435"
+	}
+]

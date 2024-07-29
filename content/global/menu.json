@@ -1,0 +1,55 @@
+[
+	{
+		"path": "/",
+		"label": "Home"
+	},
+	{
+		"path": "#services",
+		"label": "Services",
+		"children": [
+			{
+				"path": "/services/ai-visual-inspection",
+				"label": "AI Visual Inspection",
+				"description": "Ombrulla's faster, more accurate defect detection reducing costs."
+			},
+			{
+				"path": "/services/ai-infrastructure-inspection",
+				"label": "AI Infrastructure Inspection",
+				"description": "Ombrulla's infrastructure inspection with drone and AI camera technology."
+			}
+		]
+	},
+	{
+		"path": "#products",
+		"label": "Products",
+		"children": [
+			{
+				"path": "/products/asset-performance-management",
+				"label": "Asset Performance Management Software",
+				"description": "Unlock your asset's full potential with AI and IoT-enabled APM software."
+			},
+			{
+				"path": "/products/workplace-safety-software",
+				"label": "Workplace Safety Software",
+				"description": "Enhance workplace safety with our AI & RTLS enabled solution for real-time monitoring."
+			},
+			{
+				"path": "/products/environmental-sustainability",
+				"label": "Environmental Sustainability",
+				"description": "Petran empowers industries to become sustainability leaders by lowering resource consumption."
+			}
+		]
+	},
+	{
+		"path": "/about",
+		"label": "About"
+	},
+	{
+		"path": "/blog",
+		"label": "Blog"
+	},
+	{
+		"path": "/contact",
+		"label": "Contact"
+	}
+]

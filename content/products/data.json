@@ -1,0 +1,104 @@
+[
+	{
+		"slug": "asset-performance-management",
+		"miniHeading": "Asset Performance Management Software",
+		"title": "AI and IoT enabled Asset performance management software",
+		"image": "/assets/images/banner-05.jpg",
+		"description": {
+			"overview": "AI and IoT-enabled APM software optimizes asset lifecycle by combining real-time data and advanced AI analytics to predict failures, prescribe maintenance, and enhance performance",
+			"details": [
+				{
+					"heading": "Accuracy",
+					"text": "AI visual inspection systems provide higher accuracy in defect detection compared to human inspectors."
+				},
+				{
+					"heading": "Speed",
+					"text": "These systems can process and analyze products much faster, reducing inspection times."
+				},
+				{
+					"heading": "Consistency",
+					"text": "AI systems offer consistent performance without fatigue, ensuring reliable inspection outcomes."
+				}
+			]
+		},
+		"call_to_action": ["Schedule Call", "Watch Video"],
+		"sections": [
+			{
+				"navigator": "Overview",
+				"title": "Unlock Asset Potential: Streamline Predictive Maintenance",
+				"type": "description",
+				"overview": "Asset Performance Management software, which integrates real-time IoT data with powerful AI algorithms is a sophisticated solution that optimises asset lifespan. This technology enables organisations to predict equipment failures, prescribe maintenance activities, and improve overall asset performance, resulting in increased operational efficiency and cost savings.",
+				"call_to_action": ["CTA"],
+				"details": [
+					{
+						"heading": "Real-time Monitoring:",
+						"text": "Real-time asset monitoring and data collection."
+					},
+					{
+						"heading": "Predictive Analytics:",
+						"text": "Predictive Analytics for Failure Prevention."
+					},
+					{
+						"heading": "Prescriptive maintenance:",
+						"text": "Prescriptive maintenance maximises asset longevity."
+					},
+					{
+						"heading": "Data-driven decisions:",
+						"text": "Data-driven decisions for better asset utilisation."
+					}
+				],
+				"highlights": [
+					{
+						"heading": "15%",
+						"description": "Reduce maintenance costs"
+					},
+					{
+						"heading": "5%",
+						"description": "Reduce downtime"
+					},
+					{
+						"heading": "25%",
+						"description": "Increase machine life"
+					},
+					{
+						"heading": "8%",
+						"description": "Increase overall productivity"
+					}
+				]
+			},
+			{
+				"navigator": "Benefits",
+				"title": "Customer Benefits",
+				"overview": "AI and IoT-enabled Asset Performance Management (APM) software offers numerous benefits to customers, significantly enhancing their operational efficiency, cost-effectiveness, and overall asset performance.",
+				"type": "description",
+				"call_to_action": ["CTA"],
+				"details": [
+					{
+						"heading": "Increase Equipment and Plant Uptime",
+						"text": "Identify and quantify operational risks when they first emerge for proactive action. Address equipment reliability issues before they turn into costly failures and downtime."
+					},
+					{
+						"heading": "Increase Visibility Into Reliability Savings",
+						"text": "Every issue is quantified with an economic impact, giving the entire team awareness of the savings. Recoup a quantifiable, rapid return on investment (ROI) in a matter of months after initial deployment."
+					},
+					{
+						"heading": "Improve Operational Efficiency",
+						"text": "Identify and quantify performance deviations when they first emerge allowing for optimal usage of power, water, chemicals, and fuel."
+					},
+					{
+						"heading": "Prioritize Maintenance by Condition",
+						"text": "Assess and quantify your maintenance activities by economic impact. Apply condition-based techniques to bolster your current scheduled maintenance and long-term maintenance planning programs."
+					},
+					{
+						"heading": "Maintain Safe Working Environment",
+						"text": "Asset failures can be dangerous. Proper plant operations ensures that your workforce remains safe on the job."
+					},
+					{
+						"heading": "Retain Operational Expertise",
+						"text": "An aging workforce and employee turnover challenge many organizations. Easily recalling past issue resolutions supports better decision-making."
+					}
+				]
+			}
+		]
+	}
+]
