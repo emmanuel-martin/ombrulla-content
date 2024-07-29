@@ -3,7 +3,7 @@
 		"slug": "ai-visual-inspection",
 		"miniHeading": "AI Visual Inspection",
 		"title": "Achieving manufacturing excellence",
-		"image": "/assets/images/banner-05.jpg",
+		"image": "/assets/images/banner-07.png",
 		"description": {
 			"overview": "High-Speed, High-Precision Automated Manual Visual Inspection",
 			"details": [
@@ -83,33 +83,21 @@
 						"image": "/assets/images/banner-01.jpg",
 						"heading": "Pre-processing and Model Training Module",
 						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-						"call_to_action": [
-							{
-								"id": "CTA"
-							}
-						]
+						"call_to_action": ["Get a free consulation call", "Watch a video about the project"]
 					},
 					{
 						"tab": "Watch",
-						"image": "/assets/images/banner-02.jpg",
+						"image": "/assets/images/banner-11.png",
 						"heading": "Decision-Making Module",
 						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-						"call_to_action": [
-							{
-								"id": "CTA"
-							}
-						]
+						"call_to_action": ["Click to know more about the project", "Watch a video about the project"]
 					},
 					{
 						"tab": "SKY",
 						"image": "/assets/images/banner-06.jpg",
 						"heading": "Data management and Analysis Module",
 						"overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-						"call_to_action": [
-							{
-								"id": "CTA"
-							}
-						]
+						"call_to_action": ["Watch a video about the project", "Click to know more about the project"]
 					}
 				]
 			},
